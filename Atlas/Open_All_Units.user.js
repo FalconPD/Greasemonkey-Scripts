@@ -23,7 +23,7 @@ $("<a/>", {
   "click": function() {
     $("div[id^='unit']").remove();
     $("#openAllUnits").text("Loading...");
-    $links = $(".UnitRow > td:first-child > a");
+    $links = $(".unit > a");
     units = $links.length;
     done = 0;
     $("#Atlas_Browse_View_UnitCalendar").css("page-break-after", "always");
