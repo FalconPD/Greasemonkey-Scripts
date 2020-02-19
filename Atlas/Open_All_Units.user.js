@@ -3,7 +3,7 @@
 // @namespace   Ryan.Tolboom@monroe.k12.nj.us
 // @description Adds a link at the top of the page that will open all units in a curriculum
 // @include     https://*.rubiconatlas.org/Atlas/Browse/View/UnitCalendar*
-// @version     1
+// @version     2
 // @grant       none
 // @require     https://code.jquery.com/jquery-3.2.1.min.js
 // ==/UserScript==
